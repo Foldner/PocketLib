@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LibApp</string>
+    <string name="novelties_text">НОВИНКИ</string>
+    <string name="logo_text1">Pocket</string>
+    <string name="logo_text2">Lib</string>
+    <string name="temp_text">temp</string>
+</resources>
